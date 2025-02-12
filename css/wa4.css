@@ -32,7 +32,38 @@ body {
     border: 0.2em solid black;
     border-radius: 1.5em;
   }
-.card_header .card_footer
+.card_header, .card_footer
     {
         max-height: 50em;
+        height: 3.125em;
+        padding: .625em;
+        box-sizing: border-box;
     }
+
+h2, p {
+  margin: 0;
+}
+
+article {
+  height: 7.5em;
+  background-color: rgba(0,0,0,0.5);
+}
+
+h2 {
+  font-size: 1.25em;
+  color: black;
+  padding: 0.5em;
+  line-height: 1.875em;
+  height: 1.875em;
+}
+
+.card_footer p {
+  font-size: .9375em;
+  line-height: 1.875em;
+  display: flex;
+  height: 1.875em;
+}
+
+article p {
+  padding-left: .625em ;
+}
