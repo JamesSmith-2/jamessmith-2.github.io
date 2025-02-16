@@ -10,7 +10,6 @@
     margin: 0;
     background: #ccc;
   }
-  
   article {
     width: 210mm;
     height: 297mm;
@@ -39,3 +38,16 @@
   }
   
   /* Your CSS below here */
+
+  /*Background Image*/
+    article{
+      background-image: url(top-image.png) url(bottom-image.png);
+      linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+      background-repeat: no-repeat, no-repeat, no-repeat;
+    }
+
+    address{
+      position: absolute;
+      bottom: 8mm;
+      right: 20mm;
+    }
