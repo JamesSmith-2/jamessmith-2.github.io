@@ -29,6 +29,10 @@ header {
     color: #FFFFFF;
     padding: 20px 20px;
     text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    height: 100px;
 }
 
 header h1 {
@@ -36,11 +40,20 @@ header h1 {
     font-size: 2.5em;
 }
 
-/* Style the navigation menu */
+nav {
+    position: sticky;
+    top: 150px;
+    z-index: 999;
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
     text-align: center;
+    margin-top: 10px;
+
 }
 
 nav ul li {
@@ -58,7 +71,7 @@ nav ul li a:hover {
     color: #007BFF;
 }
 
-/* Style the main content area */
+
 main {
     margin: 20px 0;
 }
@@ -72,7 +85,7 @@ main p {
     margin-bottom: 20px;
 }
 
-/* Style the footer */
+
 footer {
     background: #333333;
     color: #fff;
@@ -84,3 +97,63 @@ footer {
 footer p {
     margin: 0;
 }
+
+/* GRID TIME */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr; 
+    grid-template-rows: auto; 
+    grid-gap: 15px; 
+    padding: 20px;
+}
+
+.grid-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+details summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: #007BFF;
+    margin-top: 10px;
+}
+
+details summary:hover {
+    text-decoration: underline;
+}
+
+details p {
+    margin-top: 10px;
+}
+
+/* Responsive Design */
+
+/* Mobile */
+@media (max-width: 400px) {
+    .grid-container {
+        grid-template-columns: 1fr; /* Maintain single column */
+        grid-gap: 10px; /* Reduce spacing for smaller screens */
+    }
+    .grid-item {
+        padding: 10px; /* Adjust padding */
+    }
+    header {
+        background: blue;
+        color: white;
+    }
+    
+}
+
+/* Laptop */
+@media (max-width: 1500px) {
+    .grid-container {
+        grid-template-columns: 1fr; /* Still single column */
+        grid-gap: 15px; /* Keep consistent spacing */
+    }
+
+}
+
