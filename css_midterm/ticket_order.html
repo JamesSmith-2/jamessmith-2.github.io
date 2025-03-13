@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Ticket Purchase</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Buy Tickets</h1>
+        <form>
+            <label for="name">Enter a Fake Name</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="email">Enter the Wrong Email</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="event">Event</label>
+            <select id="event" name="event" required>
+                <option value="concert">Concert 1</option>
+                <option value="concert">Concert 2</option>
+                <option value="concert">Concert 3</option>
+                <option value="concert">Concert 4</option>
+                <option value="concert">Concert 5</option>
+                <option value="concert">Concert 6</option>
+                <option value="concert">Concert 7</option>
+                <option value="concert">Concert 8</option>
+                <option value="concert">Concert 9</option>
+                <option value="concert">Concert 10</option>
+
+            </select>
+            
+            <label for="quantity">Quantity</label>
+            <input type="number" id="quantity" name="quantity" min="1" max="10" required>
+            
+            <button type="submit">Purchase</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,11 +1,9 @@
-/* Reset some default browser styles */
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Set a background color and font for the body */
 body {
     background-color: #F0F0F0;
     font-family: Arial, sans-serif;
@@ -14,16 +12,6 @@ body {
     padding: 20px 20px;
 }
 
-/* Style the main container */
-.container {
-    max-width: 1200px;
-    margin: 20px 0;
-    background: #fff;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-/* Style the header */
 header {
     background: #333333;
     color: #FFFFFF;
@@ -96,6 +84,7 @@ footer {
 
 footer p {
     margin: 0;
+    text-align: center;
 }
 
 /* GRID TIME */
@@ -135,11 +124,11 @@ details p {
 /* Mobile */
 @media (max-width: 400px) {
     .grid-container {
-        grid-template-columns: 1fr; /* Maintain single column */
-        grid-gap: 10px; /* Reduce spacing for smaller screens */
+        grid-template-columns: 1fr; /* single column */
+        grid-gap: 10px; /* Reduced spacing */
     }
     .grid-item {
-        padding: 10px; /* Adjust padding */
+        padding: 10px; /* padding change */
     }
     header {
         background: blue;
@@ -151,7 +140,7 @@ details p {
 /* Laptop */
 @media (max-width: 1500px) {
     .grid-container {
-        grid-template-columns: 1fr; /* Still single column */
+        grid-template-columns: 1fr; /* single column */
         grid-gap: 15px; /* Keep consistent spacing */
     }
 
