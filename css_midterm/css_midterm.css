@@ -130,11 +130,20 @@ details p {
     .grid-item {
         padding: 10px; /* padding change */
     }
-    header {
-        background: blue;
-        color: white;
+    nav {
+        position:static;
     }
-    
+    header h1{
+        font-size:larger
+    }
+    header h2{
+        font-size:small;
+    }
+    header{
+        position: static;
+    }
+
+     
 }
 
 /* Laptop */
