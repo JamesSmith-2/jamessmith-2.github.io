@@ -6,10 +6,19 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Welcome to the Home Page</h1>
-    <p>This is a simple HTML page.<br>
-        We gonna go absolutely crazy with this page.
-    </p>
+    <header>
+        <nav> <!-- Navigation Bar to bounce around the website -->
+            <ul>
+                <li><a href="html/week2/wa2.html">Portfolio</a></li>
+                <li><a href="index.html">Home</a></li>
+            </ul>
+        </nav>
+        <h1>Welcome to the Home Page</h1>
+        <p>This is a simple HTML page.<br>
+            We gonna go absolutely crazy with this page.
+        </p>
+        <img src="images/_DSC6352.JPG" alt="Picture of me" height="150">>
+    </header>
     <h2><em>GOALS</em></h2>
     <ul>
         <li>Build a solid website for my University portfolio</li>
@@ -18,11 +27,138 @@
         <li>Make a fire dropdown window</li>
         <li>Learn to make a website for [INSERT COMPANY NAME]</li>
     </ul>
-    <image src="images\_DSC6352.JPG" alt="Picture of me" height="150">
 
     <h2>Links</h2>
     <ul>
         <li><a href="https://www.youtube.com/watch?v=O5WJz7kChWo">Resonance by James Smith</a></li>
     </ul>
+
+    <!-- 
+    
+    <h2>Semantic HTML5 Elements</h2>
+    -----------------------------------------------------------------------------------------------------------------------------------------------
+
+    <p>HTML5 introduced several new semantic elements that provide better structure and meaning to web pages. Here are some of the key semantic elements:</p>
+    <section> Section
+        <h2>This is a section</h2>
+        <p>Sections are used to group related content together. They typically have a heading and can contain other elements like paragraphs, images, and lists.</p>
+    </section>
+
+    <aside> Tangential related - Aside
+        <h2>This is an aside</h2>
+        <p>Asides are used for content that is tangentially related to the main content. They are often presented as sidebars or callout boxes.</p>
+    </aside>
+
+    <article> Article - Usable many different times
+        <section>
+            <h2>This is a section inside an article</h2>
+            <p>Articles are for self-contained content that could be distributed independently from the rest of the site. Examples include a forum post, a magazine or newspaper article, or a blog entry.</p>
+        </section>
+    </article> 
+
+    <main> Main - Main content of the page
+        <h2>This is the main content area</h2>
+        <p>The main element is used to encapsulate the dominant content of the <body> of a document. There should only be one <main> element per document.</p>
+    </main>
+
+    Forms, Lists, and Data
+    <fieldset>
+        <legend>Personal Information</legend>
+        <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="0" max="120"><br><br>
+
+            <label for="bio">Short Bio:</label><br>
+            <textarea id="bio" name="bio" rows="4" cols="50"></textarea><br><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </fieldset>
+    
+    <ul>
+        <li>Unordered List Item 1</li>
+        <li>Unordered List Item 2
+            <ul>
+                <li>Nested Unordered List Item 1</li>
+                <li>Nested Unordered List Item 2</li>
+            </ul>
+        </li>
+        <li>Unordered List Item 3</li>
+    </ul>
+    <ol>
+        <li>Ordered List Item 1</li>
+        <li>Ordered List Item 2
+            <ol>
+                <li>Nested Ordered List Item 1</li>
+                <li>Nested Ordered List Item 2</li>
+            </ol>
+        </li>
+        <li>Ordered List Item 3</li>
+    </ol>
+    <table border="1">
+        <caption>Sample Data Table</caption>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>City</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Alice</td>
+                <td>30</td>
+                <td>New York</td>
+            </tr>
+            <tr>
+                <td>Bob</td>
+                <td>25</td>
+                <td>Los Angeles</td>
+            </tr>
+            <tr>
+                <td>Charlie</td>
+                <td>35</td>
+                <td>Chicago</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3">End of Table</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    WCAG - The Four Pillars of Accessibility
+    Perceivable - Information must be presentable in ways users can perceive
+    Operable - User interface components and navigation must be operable by all users
+    Understandable - Information and the operation of the user interface must be understandable
+    Robust - Content must be robust enough to be interpreted by a wide variety of user agents, including assistive technologies, This is the point of semantic HTML
+
+    <img src="images/picture.JPG" alt="Decorative, Informative, or Functional. If the image is decorative, use an empty alt attribute (alt=''). If the image is informative, provide a brief description of the image in the alt attribute. If the image is functional (e.g., a button or link), describe its function in the alt attribute.>
+
+    <nav>  (Should be used for primary navigation only, and usable by keyboard only, AKA TAB KEY)
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <q> This is an inline quotation. </q>
+    <blockquote> This is a block quotation. It is used for longer quotes that are set apart from the main text. </blockquote>
+
+    -->
+    
+
+    <footer>
+        <p>&copy; 2024 James Smith</p>
+
 </body>
 </html>
