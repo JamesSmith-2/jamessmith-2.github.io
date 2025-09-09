@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
+    <style>
+
+    </style>
 </head>
 <body>
     <header>
@@ -154,11 +157,89 @@
     <q> This is an inline quotation. </q>
     <blockquote> This is a block quotation. It is used for longer quotes that are set apart from the main text. </blockquote>
 
+<hr>
+
+
+    
+    <u>CSS Basics and Visual Identity</u>
+            <hr>
+            <ul>
+                <li>
+                    Element selector - h1, p, ul, li, etc.
+                </li>
+                <li>
+                    Class selector - .header, .button
+                </li>
+                <li>
+                    ID Selector - #nav, #home, #about
+                </li>
+                <li>
+                    Pseudo-Selector - :hover, 
+                </li>
+            </ul>
+            <ul>
+                <p>
+                    CSS: Cascading Style Sheets
+                    an Inherent property of CSS, the rule that is further down on the CSS file will be applied last, and shown on the screen
+                </p>
+                <h3>Hierarchy</h3>
+                <li>
+                    <p>1) Inline stlying - Not good practice, CSS will only apply to what it is written</p>
+                </li>
+                <li>
+                    <p>2) Internal CSS - In the head of the HTML document, applies to the whole document</p>
+                </li>
+                <li>
+                    <p>3) External Stylesheet - link:css</p>
+                </li>
+                <li>
+                    ID is more specific than class, and class is more specific than element. Therefore, ID will override class, and class will override element. If two of the same type are applied, the one that is lower on the CSS file will be applied.
+                </li>
+            </ul>
+
+            <hr>
+            <h3>Box Model<h3>
+            <p>
+                Every HTML element can be considered as a box. The CSS box model describes the rectangular boxes that are generated for elements in the document tree and consists of: margins, borders, padding, and the actual content.
+            </p>
+
+            Web Safe Fonts vs Web fonts
+            <ul>
+                <li>Web Safe Fonts - A set of fonts that are widely available across different operating systems and devices. Examples include Arial, Times New Roman, and Courier New.</li>
+                <li>Web Fonts - Custom fonts that can be embedded into web pages using services like Google Fonts or Adobe Fonts. These fonts may not be installed on the user's device but are downloaded when the page loads.</li>
+                    font-family: Specifies the typeface for text in order left to right in the line.
+
+                <li>Font sizes:
+                    <ul>
+                    <li>Select a base number - body text size</li>
+                    <li>Select a ratio - determine spacing and relationship between elements</li>
+                    <li>Generate Scale</li>
+                    <li>Apply to design</li>
+                    </ul>
+                </li>
+                <li>
+                    Color Theory
+                    <ul>
+                        <li>Primary Colors - Red, Blue, Yellow</li>
+                        <li>Secondary Colors - Green, Orange, Purple</li>
+                        <li>Tertiary Colors - Red-Orange, Yellow-Orange, Yellow-Green, Blue-Green, Blue-Purple, Red-Purple</li>
+                        <li>Complementary Colors - Colors opposite each other on the color wheel (e.g., Red and Green)</li>
+                        <li>Analogous Colors - Colors next to each other on the color wheel (e.g., Blue, Blue-Green, Green)</li>
+                        <li>Triadic Colors - Three colors evenly spaced around the color wheel (e.g., Red, Yellow, Blue)</li>
+                    </ul>
+                    Color swatch Design Systems
+                        <a href="color.adobe.com">Adobe Color</a>
+                        <a href="coolors.co">Coolors</a>
+                        <a href-"webaim.org/resources/contrastchecker/">WebAIM Contrast Checker</a>
+                </li>
+                    
+                    Hierarchy:
+                        Size, weight, color, adn position determine where to look on the page
+    
     
 
     <footer>
         <p>&copy; 2024 James Smith</p>
     -->
-
 </body>
 </html>
