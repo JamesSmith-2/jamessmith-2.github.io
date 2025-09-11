@@ -20,8 +20,10 @@
         
         .color-box
         {
-            height:75px;
-            width:75px;
+            height: 120px;
+            width:20%;
+            color:white
+
         }
         #box1
         {
@@ -34,10 +36,12 @@
         #box3
         {
             background-color:#BCAC9b ;
+            color:black;
         }
         #box4
         {
-            background-color:#c17c74 ;
+            background-color:#c17c74;
+            color:black;
         }
         #box5
         {
@@ -50,15 +54,15 @@
         }
 
         h3{
-            font-size: 20px;
-        }
-
-        h2{
             font-size: 24px;
         }
 
+        h2{
+            font-size: 32px;
+        }
+
         h1{
-            font-size:28px;
+            font: size 48px;        
         }
         a{
             text-decoration: none;
@@ -72,15 +76,30 @@
         a:visited{
             color:#70161e;
         }
+        #flex
+        {
+            display:flex;
+        }
+        button
+        {
+            background-color:#255957;
+            color:white;
+            border:none;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
-    <div class="color-box" id="box1">1</div>
-    <div class="color-box" id="box2">2</div>
-    <div class="color-box" id="box3">3</div>
-    <div class="color-box" id="box4">4</div>
-    <div class="color-box" id="box5">5</div>
-
+    <div id="flex">
+    <div class="color-box" id="box1"><h3>#3a2e39</h3></div>
+    <div class="color-box" id="box2"><h3>#255957</h3></div>
+    <div class="color-box" id="box3"><h3>#BCAC9b</h3></div>
+    <div class="color-box" id="box4"><h3>#c17c74</h3></div>
+    <div class="color-box" id="box5"><h3>#70161e</h3></div>
+        </div>
     <h1>Heading 1</h1>
     <h2>Heading 2</h2>
     <h3>Heading 3</h3>
@@ -88,9 +107,21 @@
     <p>Paragraph Text</p>
     <p class="small-text">This is small text</p>
 
-    <p><a href="#">This is a link</a></p>
+    <h2><a href="#">This is a link</a></h2>
 
     <button>Button</button>
+    <button>This Button does not work!</button>
+
+    <form>
+        <h2>Contact Us</h2>
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
+        <input type="submit" value="Submit">
+    </form>
 
 </body>
 </html>
