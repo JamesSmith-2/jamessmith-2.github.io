@@ -39,9 +39,9 @@ a:hover{
     text-decoration: underline;
     color:#A7CDBD
 }
-a:visited{
+/* a:visited{
     color: #869D7A;
-}
+} */
 
 .homepage{
     display: flex;
