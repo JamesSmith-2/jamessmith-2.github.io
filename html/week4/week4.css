@@ -1,0 +1,95 @@
+/* Week 4 CSS Weekly Assignment */
+/*
+    Colors:
+        Dark Gray: #39393A - White Text
+        Slate Gray: #55505C - White Text
+        Dimmed Green: #869D7A - Black Text
+        Teal: #A7CDBD - Black Text
+        Seafoam Green: #BBE1C3 - Black Text
+
+*/
+
+body
+{
+    background-color: #39393A;
+}
+
+p
+{
+    color: white;
+    background-color: #55505C;
+}
+
+.myname
+{
+    color: #BBE1C3;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h1, h2, h3, h4, h5, h6
+{
+    color: #A7CDBD;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+a{
+    color:#BBE1C3
+}
+
+a:hover{
+    text-decoration: underline;
+    color:#A7CDBD
+}
+a:visited{
+    color: #869D7A;
+}
+
+.homepage{
+    display: flex;
+    flex-direction:column;
+}
+
+.homepage, #welcome
+{
+    display: flex;
+    flex-direction:column;
+}
+
+.row
+{
+    display:flex;
+    flex-direction: row;
+}
+
+.imagecolumn
+{
+    display:flex;
+    flex-direction: column;
+}
+
+.textcolumn
+{
+    display:flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Style the navigation bar */
+
+nav{
+position: absolute;
+top: 0;
+right:0;
+overflow: hidden;
+/* background-color:; */
+}
+
+/* Navbar links */
+#navbar a {
+float: right;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px;
+text-decoration: none;
+}
