@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/css/index.css">
     <title>Home</title>
     <style>
 
@@ -10,31 +11,35 @@
 </head>
 <body>
     <header>
-        <nav> <!-- Navigation Bar to bounce around the website -->
-            <ul>
-                <li><a href="html/week2/wa2.html">Portfolio</a></li>
-                <li><a href="index.html">Home</a></li>
-            </ul>
+        <header>
+        <!-- Turn these into BUTTONS, not raw links -->
+        <nav> 
+                <button><a href="index.html">Home</a></button>
+                <button><a href="/homesite/about.html">About Me</a> </button>
+                <button><a href="/homesite/projects.html">Projects</a> </button>
+                <button><a href="/homesite/goals.html">Goals</a> </button>
+                <button><a href="/homesite/contact.html">Contact</a> </button>
         </nav>
-        <h1>Welcome to the Home Page</h1>
-        <p>This is a simple HTML page.<br>
-            We gonna go absolutely crazy with this page.
-        </p>
-        <img src="images/james_chataqua.JPG" alt="Picture of me" height="150">>
     </header>
-    <h2><em>GOALS</em></h2>
-    <ul>
-        <li>Build a solid website for my University portfolio</li>
-        <li>Throw some blog stuff on here once in a while</li>
-        <li>Learn some stuff on web design</li>
-        <li>Make a fire dropdown window</li>
-        <li>Learn to make a website for [INSERT COMPANY NAME]</li>
-    </ul>
-
-    <h2>Links</h2>
-    <ul>
-        <li><a href="https://www.youtube.com/watch?v=O5WJz7kChWo">Resonance by James Smith</a></li>
-    </ul>
+    <main>
+        <h1 class="myname">James A. Smith</h1>
+        <div class="row">
+            <div class="imagecolumn">
+                <img id="profile" src="/images/james_chataqua.JPG" alt="Rotating picture of James Smith" width="300">
+            </div>
+            <div class="welcomecolumn">
+                <h2 class="welcome">
+            Hello and Welcome to my page!
+        </h2>
+        <br>
+        <p>
+            Feel free to explore the different sections of my site using the navigation links above. You can learn more about me, view my projects, read about my goals, and find ways to get in touch with me. There is lots of fun things to explore here, and new projects being added regularly, so be sure to check back often!
+            <br><br>
+            Thank you for visiting my portfolio!
+        </p>
+            </div>
+        </div>     
+    </p>
 
     <!-- 
     
