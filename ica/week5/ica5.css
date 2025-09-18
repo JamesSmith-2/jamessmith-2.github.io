@@ -49,3 +49,15 @@ button:hover
     background-color:aqua;
     color:#A7CDBD
 }
+
+.post-activity-reflection
+{
+    background-color: black;
+    color:white;
+    padding: 20px;
+}
+
+.post-activity-reflection, p
+{
+    color: white;
+}
