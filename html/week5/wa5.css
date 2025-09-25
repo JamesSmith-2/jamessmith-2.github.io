@@ -1,0 +1,137 @@
+.dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropdown-button {
+      padding: 10px 20px;
+      background-color: #3498db;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f1f1f1;
+      min-width: 200px;
+      box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+      z-index: 1;
+    }
+
+    .dropdown-content a {
+      padding: 12px 16px;
+      display: block;
+      text-decoration: none;
+      color: black;
+    }
+
+    .dropdown-content a:hover {
+      background-color: #ddd;
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    .dropdown:hover .dropdown-button {
+      background-color: #2980b9;
+    }
+
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        background-color: #333;
+        padding: 10px;
+    }
+
+    .nav-menu {
+        display: none;
+        flex-direction: column;
+    }
+
+    .nav-menu a{
+        color:blue;
+        text-decoration: underline
+    };
+
+    .nav-menu a:hover {
+        color: lightblue;
+        text-decoration: underline;
+    }
+
+    .nav-menu.active{
+        display:flex;
+    }
+
+    .nav-logo {
+        font-size: 24px;
+        color: white;
+        text-decoration: none;
+    }
+
+    .nav-toggle {
+      width: 30px;
+      height: 25px;
+      display: flex /*none*/; /*Temporary, for testing*/
+      flex-direction: column;
+      justify-content: space-between;
+      cursor: pointer;
+    }
+
+    .nav-toggle span {
+      display: block;
+      height: 4px;
+      background-color: #333;
+      border-radius: 2px;
+      transition: all 0.3s ease;
+    }
+
+    .project_overview {
+        display: none;
+    }
+
+    .project_overview.active {
+        display: block;
+    }
+
+    .main-nav {
+        background-color: lightgrey;
+        color:Black;
+        padding:10px;
+        display:flex;
+        justify-content: space-between;
+        align-items:center;
+    }
+    .main-nav a {
+        color:blue;
+        text-decoration: underline
+    };
+    .nav-brand {
+        font-size: 24px;
+        font-weight: bold;
+        color: black;
+        text-decoration: none;
+        background-color:lightblue;
+        padding:5px;
+    }
+
+
+    @media (max-width: 768px) {
+    .nav-toggle {
+      width: 30px;
+      height: 25px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      cursor: pointer;
+    }
+
+    .nav-toggle span {
+      display: block;
+      height: 4px;
+      background-color: #333;
+      border-radius: 2px;
+      transition: all 0.3s ease;
+    }
+    }
