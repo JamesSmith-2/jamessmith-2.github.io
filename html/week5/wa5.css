@@ -1,3 +1,12 @@
+/*
+Colors
+#08090A - Black
+#82204A - Murrey Red
+#8EEDF7 - Teal
+#8D8D92 - Taupe Gray
+#858786 - Gray
+*/
+
 .dropdown {
       position: relative;
       display: inline-block;
@@ -73,7 +82,7 @@
     .nav-toggle {
       width: 30px;
       height: 25px;
-      display: flex /*none*/; /*Temporary, for testing*/
+      display: none /*none*/; /*Temporary, for testing*/
       flex-direction: column;
       justify-content: space-between;
       cursor: pointer;

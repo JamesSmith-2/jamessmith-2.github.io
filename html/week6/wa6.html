@@ -3,9 +3,77 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link  rel="stylesheet" href="wa6.css">
+    <title>MANUAL | Mental Health for Academic Life</title>
 </head>
 <body>
-    
+<header>
+    <nav class="main-nav">
+    <div class="nav-brand"><img src="manual logo.png" width="200px"></div>
+    <button class="nav-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+    <ul class="nav-menu">
+        <li><a href="wa6.html">Home</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        <li><a href="events.html">Events</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="https://www.manual.care/">Published website</a></li>
+    </ul>
+    </nav>
+    <button id="accessibility-toggle">Toggle High Contrast</button>
+</header>
+
+<main class= "grid-home">
+    <section class="intro" id="home">
+        <h1>Welcome to MANUAL</h1>
+        <p>
+            Empowering fraternity members with mental health resources, peer support, and private coaching.
+        </p>
+    </section>
+
+    <section class="resources" id="quick-resources">
+        <h2>In A Rush? Quick Access Resources</h2>
+            <select id="filter">
+                <option value="all">All</option>
+                <option value="anxiety">Anxiety</option>
+                <option value="substance">Substance Use</option>
+                <option value="academic">Academic Stress</option>
+            </select>
+            <br>
+            <div class="resources-list">
+                <div class="resource-card" id="anxiety"><a href="resources.html">Breathing Toolkit</a></div>
+                <div class="resource-card" id="substance"><a href="resources.html">Sober Support Network</a></div>
+                <div class="resource-card" id="academic"><a href="resources.html">Study Burnout Recovery</a></div>
+            </div>
+    </section>
+
+    <section class="events" id="events">
+        <h2>Upcoming Events</h2>
+        <ul>
+            <li>Oct 5: Peer Coaching Kickoff</li>
+            <li>Oct 12: Anxiety Workshop Webinar</li>
+            <li>Oct 26: Fraternity Wellness Roundtable</li>
+        </ul>
+    </section>
+
+    <section class="contact" id="contact">
+        <h2>Anonymous Feedback</h2>
+            <form id="feedback-form">
+                <label for="message">Your Message:</label>
+                <textarea id="message" required></textarea>
+                <button type="submit">Submit</button>
+            </form>
+
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2025 MANUAL. Built for fraternity wellness</p>
+</footer>
+
+    <script src="wa6.js"></script>
 </body>
 </html>
