@@ -4,14 +4,14 @@
   --murrey-red: #82204a;
   --teal: #8eedf7;
   --taupe-gray: #8d8d92;
-  --gray: #858786;
+  --white: white;
 }
 
 /* Base Styles */
 body {
   font-family: sans-serif;
   margin: 0;
-  background-color: var(--taupe-gray);
+  background-color: var(--white);
   color: var(--black);
   font-size: 1rem;
 }
@@ -25,7 +25,6 @@ body {
 .h3{
   font-size: 1.25rem;
 }
-
 
 /* Grid Layout */
 .grid-home {
