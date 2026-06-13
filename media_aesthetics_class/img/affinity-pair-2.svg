@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#4b6584"/>
+  <polygon points="200,150 600,150 700,450 100,450" fill="#6d9bc3" opacity="0.9"/>
+  <polygon points="250,200 550,200 650,400 150,400" fill="#92b4d4" opacity="0.7"/>
+  <text x="400" y="90" font-family="Verdana" font-size="42" fill="#fff" text-anchor="middle">Affinity Shot 2</text>
+  <text x="400" y="140" font-family="Verdana" font-size="24" fill="#eaeaea" text-anchor="middle">Low intensity</text>
+</svg>

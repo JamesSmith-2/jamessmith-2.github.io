@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#000"/>
+  <path d="M50 500 Q400 100 750 500" stroke="#ffcc00" stroke-width="40" fill="none"/>
+  <circle cx="200" cy="420" r="60" fill="#ffcc00"/>
+  <text x="400" y="80" font-family="Verdana" font-size="42" fill="#fff" text-anchor="middle">Contrast Shot 1</text>
+  <text x="400" y="130" font-family="Verdana" font-size="24" fill="#ddd" text-anchor="middle">High intensity</text>
+</svg>
