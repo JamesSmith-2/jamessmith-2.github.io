@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="1200" viewBox="0 0 700 1200">
+  <rect width="700" height="1200" fill="#fff8f0"/>
+  <g>
+    <rect x="280" y="50" width="140" height="1100" fill="#f4d7b7"/>
+    <rect x="320" y="200" width="60" height="800" fill="#e0b089"/>
+  </g>
+  <text x="350" y="130" font-family="Arial" font-size="36" fill="#5b3b2e" text-anchor="middle">Vertical motif (placeholder)</text>
+  <text x="350" y="170" font-family="Arial" font-size="14" fill="#5b3b2e" text-anchor="middle">Include at least one person in the photo</text>
+</svg>

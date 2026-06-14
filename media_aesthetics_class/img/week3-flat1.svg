@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#f2f2f2"/>
+  <g>
+    <rect x="120" y="140" width="960" height="520" fill="#dcdcdc"/>
+  </g>
+  <text x="600" y="120" font-family="Arial" font-size="48" fill="#333" text-anchor="middle">Flat Space (eliminated cues)</text>
+</svg>

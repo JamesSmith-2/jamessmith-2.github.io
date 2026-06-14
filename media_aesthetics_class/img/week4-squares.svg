@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#fbfbfb"/>
+  <g fill="#d9e3f0">
+    <rect x="160" y="160" width="220" height="220"/>
+    <rect x="440" y="200" width="320" height="320"/>
+    <rect x="820" y="240" width="160" height="160"/>
+  </g>
+  <text x="600" y="80" font-family="Arial" font-size="42" fill="#223" text-anchor="middle">Square-dominated (placeholder)</text>
+  <text x="600" y="120" font-family="Arial" font-size="16" fill="#223" text-anchor="middle">Include at least one person in the photo</text>
+</svg>

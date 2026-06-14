@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#e8f4ff"/>
+  <g>
+    <rect x="60" y="560" width="1080" height="180" fill="#7aa7d9"/>
+    <rect x="100" y="460" width="240" height="220" fill="#ffffff"/>
+    <rect x="420" y="380" width="240" height="300" fill="#f6f6f6"/>
+    <rect x="740" y="260" width="240" height="420" fill="#ffffff"/>
+  </g>
+  <text x="600" y="120" font-family="Arial" font-size="56" fill="#123456" text-anchor="middle">Deep Space (placeholder)</text>
+  <text x="600" y="170" font-family="Arial" font-size="20" fill="#123456" text-anchor="middle">Depth cues: overlapping, size perspective</text>
+</svg>

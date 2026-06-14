@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#eef6f3"/>
+  <line x1="50" y1="750" x2="1150" y2="50" stroke="#6aa19b" stroke-width="28" stroke-linecap="round"/>
+  <text x="600" y="80" font-family="Arial" font-size="42" fill="#0f4b44" text-anchor="middle">Diagonal motif (placeholder)</text>
+  <text x="600" y="120" font-family="Arial" font-size="16" fill="#0f4b44" text-anchor="middle">Include at least one person in the photo</text>
+</svg>

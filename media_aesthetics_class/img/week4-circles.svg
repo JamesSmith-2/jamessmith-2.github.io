@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#fffaf7"/>
+  <g fill="#ffd9d0">
+    <circle cx="300" cy="360" r="120"/>
+    <circle cx="600" cy="360" r="200"/>
+    <circle cx="940" cy="360" r="90"/>
+  </g>
+  <text x="600" y="80" font-family="Arial" font-size="42" fill="#332" text-anchor="middle">Circle-dominated (placeholder)</text>
+  <text x="600" y="120" font-family="Arial" font-size="16" fill="#332" text-anchor="middle">Include at least one person in the photo</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#ffffff"/>
+  <g>
+    <rect x="100" y="100" width="300" height="600" fill="#222222"/>
+    <rect x="450" y="100" width="300" height="600" fill="#bbbbbb"/>
+    <rect x="800" y="100" width="300" height="600" fill="#444444"/>
+  </g>
+  <text x="600" y="60" font-family="Arial" font-size="48" fill="#222" text-anchor="middle">Flat Space (reversed cues)</text>
+  <text x="600" y="100" font-family="Arial" font-size="18" fill="#222" text-anchor="middle">Reversed cues: tonal/color separation</text>
+</svg>

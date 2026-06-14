@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#e9f0ee"/>
+  <g>
+    <path d="M200 500 C 400 200, 800 200, 1000 500 L 1000 580 C 800 300, 400 300, 200 580 Z" fill="#9fbdb2"/>
+  </g>
+  <text x="600" y="120" font-family="Arial" font-size="48" fill="#234" text-anchor="middle">Ambiguous Space</text>
+</svg>

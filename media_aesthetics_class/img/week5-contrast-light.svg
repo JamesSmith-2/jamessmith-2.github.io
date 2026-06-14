@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#000"/>
+  <circle cx="600" cy="400" r="220" fill="#222"/>
+  <rect x="480" y="320" width="240" height="160" fill="#fff"/>
+  <text x="600" y="80" font-family="Arial" font-size="36" fill="#fff" text-anchor="middle">Contrast (lighting) placeholder</text>
+  <text x="600" y="120" font-family="Arial" font-size="16" fill="#fff" text-anchor="middle">Include at least one person in the photo</text>
+</svg>

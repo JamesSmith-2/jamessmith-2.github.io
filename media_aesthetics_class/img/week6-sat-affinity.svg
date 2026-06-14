@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#f4f4f4"/>
+  <g fill="#9ec5e8">
+    <rect x="120" y="160" width="320" height="480"/>
+    <rect x="460" y="160" width="320" height="480"/>
+    <rect x="800" y="160" width="280" height="480"/>
+  </g>
+  <text x="600" y="80" font-family="Arial" font-size="36" fill="#123">Affinity of saturation (placeholder)</text>
+  <text x="600" y="116" font-family="Arial" font-size="16" fill="#123">Include at least one person in the photo</text>
+</svg>

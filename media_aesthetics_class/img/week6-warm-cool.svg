@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#fff"/>
+  <rect x="0" y="0" width="600" height="800" fill="#ff9f68"/>
+  <rect x="600" y="0" width="600" height="800" fill="#68b7ff"/>
+  <text x="600" y="60" font-family="Arial" font-size="36" fill="#123" text-anchor="middle">Warm vs Cool contrast (placeholder)</text>
+  <text x="600" y="96" font-family="Arial" font-size="14" fill="#123" text-anchor="middle">Include at least one person in the photo</text>
+</svg>
