@@ -1,0 +1,296 @@
+[
+  {
+    "source_filename": "096CEA30-F5D5-4D6A-89C2-541E0DEE148A.jpeg",
+    "replacement_pool_filename": "source_01_096CEA30-F5D5-4D6A-89C2-541E0DEE148A.jpg",
+    "relative_path": "replacement_pool_images/source_01_096CEA30-F5D5-4D6A-89C2-541E0DEE148A.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "0F6934E3-ADA8-4BE0-B811-7152FB921C7D.jpeg",
+    "replacement_pool_filename": "source_02_0F6934E3-ADA8-4BE0-B811-7152FB921C7D.jpg",
+    "relative_path": "replacement_pool_images/source_02_0F6934E3-ADA8-4BE0-B811-7152FB921C7D.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "16A74CAC-9697-494F-8E75-CC220B49290E.jpeg",
+    "replacement_pool_filename": "source_03_16A74CAC-9697-494F-8E75-CC220B49290E.jpg",
+    "relative_path": "replacement_pool_images/source_03_16A74CAC-9697-494F-8E75-CC220B49290E.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "16B257EE-AA97-4391-99E5-2A0FDF9EDF2E.jpeg",
+    "replacement_pool_filename": "source_04_16B257EE-AA97-4391-99E5-2A0FDF9EDF2E.jpg",
+    "relative_path": "replacement_pool_images/source_04_16B257EE-AA97-4391-99E5-2A0FDF9EDF2E.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "194F0251-E839-457D-90F9-9BA5303A40A8.jpeg",
+    "replacement_pool_filename": "source_05_194F0251-E839-457D-90F9-9BA5303A40A8.jpg",
+    "relative_path": "replacement_pool_images/source_05_194F0251-E839-457D-90F9-9BA5303A40A8.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "1F6941D6-4CB4-4C71-9008-48AC9B0AD023.jpeg",
+    "replacement_pool_filename": "source_06_1F6941D6-4CB4-4C71-9008-48AC9B0AD023.jpg",
+    "relative_path": "replacement_pool_images/source_06_1F6941D6-4CB4-4C71-9008-48AC9B0AD023.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "2015732A-66F0-492C-A4BE-16DEF0B26230.jpeg",
+    "replacement_pool_filename": "source_07_2015732A-66F0-492C-A4BE-16DEF0B26230.jpg",
+    "relative_path": "replacement_pool_images/source_07_2015732A-66F0-492C-A4BE-16DEF0B26230.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "29FD106D-7D49-4822-A417-4D03927FF7C8.jpeg",
+    "replacement_pool_filename": "source_08_29FD106D-7D49-4822-A417-4D03927FF7C8.jpg",
+    "relative_path": "replacement_pool_images/source_08_29FD106D-7D49-4822-A417-4D03927FF7C8.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "2CC1A468-075A-4C17-9F6F-A7F8D75E6298.jpeg",
+    "replacement_pool_filename": "source_09_2CC1A468-075A-4C17-9F6F-A7F8D75E6298.jpg",
+    "relative_path": "replacement_pool_images/source_09_2CC1A468-075A-4C17-9F6F-A7F8D75E6298.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "2D066FD5-F970-462B-87BF-EFB615282F0A.jpeg",
+    "replacement_pool_filename": "source_10_2D066FD5-F970-462B-87BF-EFB615282F0A.jpg",
+    "relative_path": "replacement_pool_images/source_10_2D066FD5-F970-462B-87BF-EFB615282F0A.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "2E7A180A-FE9E-4F17-B9A3-2FFCB5DC1DC0.jpeg",
+    "replacement_pool_filename": "source_11_2E7A180A-FE9E-4F17-B9A3-2FFCB5DC1DC0.jpg",
+    "relative_path": "replacement_pool_images/source_11_2E7A180A-FE9E-4F17-B9A3-2FFCB5DC1DC0.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "39980577-6E65-4C05-AE05-912AE8C3CA14.jpeg",
+    "replacement_pool_filename": "source_12_39980577-6E65-4C05-AE05-912AE8C3CA14.jpg",
+    "relative_path": "replacement_pool_images/source_12_39980577-6E65-4C05-AE05-912AE8C3CA14.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "3E4863D8-17E1-4EA4-AF97-6D659301F6D8.jpeg",
+    "replacement_pool_filename": "source_13_3E4863D8-17E1-4EA4-AF97-6D659301F6D8.jpg",
+    "relative_path": "replacement_pool_images/source_13_3E4863D8-17E1-4EA4-AF97-6D659301F6D8.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "565426B1-22EA-4F63-9369-A26D22FCB6F9.jpeg",
+    "replacement_pool_filename": "source_14_565426B1-22EA-4F63-9369-A26D22FCB6F9.jpg",
+    "relative_path": "replacement_pool_images/source_14_565426B1-22EA-4F63-9369-A26D22FCB6F9.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "5B6B6E90-EC80-4022-8D4B-C7B41FE7AED1.jpeg",
+    "replacement_pool_filename": "source_15_5B6B6E90-EC80-4022-8D4B-C7B41FE7AED1.jpg",
+    "relative_path": "replacement_pool_images/source_15_5B6B6E90-EC80-4022-8D4B-C7B41FE7AED1.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "5E13309A-46CE-4B33-AB4E-6416682062E3.jpeg",
+    "replacement_pool_filename": "source_16_5E13309A-46CE-4B33-AB4E-6416682062E3.jpg",
+    "relative_path": "replacement_pool_images/source_16_5E13309A-46CE-4B33-AB4E-6416682062E3.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "61E73333-3F7B-46EA-A397-C624B87ED1A8.jpeg",
+    "replacement_pool_filename": "source_17_61E73333-3F7B-46EA-A397-C624B87ED1A8.jpg",
+    "relative_path": "replacement_pool_images/source_17_61E73333-3F7B-46EA-A397-C624B87ED1A8.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "63A0F3E9-59A4-4B07-AF4C-1B4DE2FD378B.jpeg",
+    "replacement_pool_filename": "source_18_63A0F3E9-59A4-4B07-AF4C-1B4DE2FD378B.jpg",
+    "relative_path": "replacement_pool_images/source_18_63A0F3E9-59A4-4B07-AF4C-1B4DE2FD378B.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "685E922F-5EFA-4FD2-AC45-CF3815B36E33.jpeg",
+    "replacement_pool_filename": "source_19_685E922F-5EFA-4FD2-AC45-CF3815B36E33.jpg",
+    "relative_path": "replacement_pool_images/source_19_685E922F-5EFA-4FD2-AC45-CF3815B36E33.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "6C389AC1-BB67-4D31-BAA9-DE2A9DCB02E2.jpeg",
+    "replacement_pool_filename": "source_20_6C389AC1-BB67-4D31-BAA9-DE2A9DCB02E2.jpg",
+    "relative_path": "replacement_pool_images/source_20_6C389AC1-BB67-4D31-BAA9-DE2A9DCB02E2.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "70049EAC-CE1F-45DD-938F-66A275087F54.jpeg",
+    "replacement_pool_filename": "source_21_70049EAC-CE1F-45DD-938F-66A275087F54.jpg",
+    "relative_path": "replacement_pool_images/source_21_70049EAC-CE1F-45DD-938F-66A275087F54.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "70A498E0-02FD-46C8-B6FB-C1231917435E.jpeg",
+    "replacement_pool_filename": "source_22_70A498E0-02FD-46C8-B6FB-C1231917435E.jpg",
+    "relative_path": "replacement_pool_images/source_22_70A498E0-02FD-46C8-B6FB-C1231917435E.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "73F279E7-5ECE-402E-A035-4819A12F9DB6.jpeg",
+    "replacement_pool_filename": "source_23_73F279E7-5ECE-402E-A035-4819A12F9DB6.jpg",
+    "relative_path": "replacement_pool_images/source_23_73F279E7-5ECE-402E-A035-4819A12F9DB6.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "75C12DD5-D0F0-4A94-8849-9D719521217C.jpeg",
+    "replacement_pool_filename": "source_24_75C12DD5-D0F0-4A94-8849-9D719521217C.jpg",
+    "relative_path": "replacement_pool_images/source_24_75C12DD5-D0F0-4A94-8849-9D719521217C.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "844EF955-716E-4C0C-AF08-36E2B01795A1.jpeg",
+    "replacement_pool_filename": "source_25_844EF955-716E-4C0C-AF08-36E2B01795A1.jpg",
+    "relative_path": "replacement_pool_images/source_25_844EF955-716E-4C0C-AF08-36E2B01795A1.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "9407FC1D-B185-458F-8F42-87FFD1607A27.jpeg",
+    "replacement_pool_filename": "source_26_9407FC1D-B185-458F-8F42-87FFD1607A27.jpg",
+    "relative_path": "replacement_pool_images/source_26_9407FC1D-B185-458F-8F42-87FFD1607A27.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "BA8034A5-2852-4583-8BDD-0A9F51856231.jpeg",
+    "replacement_pool_filename": "source_27_BA8034A5-2852-4583-8BDD-0A9F51856231.jpg",
+    "relative_path": "replacement_pool_images/source_27_BA8034A5-2852-4583-8BDD-0A9F51856231.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "BD721C5D-E2B8-41DC-8995-86C2CCD1DCAB.jpeg",
+    "replacement_pool_filename": "source_28_BD721C5D-E2B8-41DC-8995-86C2CCD1DCAB.jpg",
+    "relative_path": "replacement_pool_images/source_28_BD721C5D-E2B8-41DC-8995-86C2CCD1DCAB.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "C45EDAD5-F8B9-483B-AC44-AD1DD501C4FF.jpeg",
+    "replacement_pool_filename": "source_29_C45EDAD5-F8B9-483B-AC44-AD1DD501C4FF.jpg",
+    "relative_path": "replacement_pool_images/source_29_C45EDAD5-F8B9-483B-AC44-AD1DD501C4FF.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "C9F6A173-0A87-46A5-AE5C-E90011880290.jpeg",
+    "replacement_pool_filename": "source_30_C9F6A173-0A87-46A5-AE5C-E90011880290.jpg",
+    "relative_path": "replacement_pool_images/source_30_C9F6A173-0A87-46A5-AE5C-E90011880290.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "D15E5A8D-3B4A-48A7-B796-6359535B68F9.jpeg",
+    "replacement_pool_filename": "source_31_D15E5A8D-3B4A-48A7-B796-6359535B68F9.jpg",
+    "relative_path": "replacement_pool_images/source_31_D15E5A8D-3B4A-48A7-B796-6359535B68F9.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "D6C6CE64-4BAC-436B-8FD5-E8A0FCF19D0D.jpeg",
+    "replacement_pool_filename": "source_32_D6C6CE64-4BAC-436B-8FD5-E8A0FCF19D0D.jpg",
+    "relative_path": "replacement_pool_images/source_32_D6C6CE64-4BAC-436B-8FD5-E8A0FCF19D0D.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "DAD6A3E8-B005-4055-9242-4CCB97C86BF7.jpeg",
+    "replacement_pool_filename": "source_33_DAD6A3E8-B005-4055-9242-4CCB97C86BF7.jpg",
+    "relative_path": "replacement_pool_images/source_33_DAD6A3E8-B005-4055-9242-4CCB97C86BF7.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "DF0F321E-078A-4C40-A4A4-CEE3257E8B5D.jpeg",
+    "replacement_pool_filename": "source_34_DF0F321E-078A-4C40-A4A4-CEE3257E8B5D.jpg",
+    "relative_path": "replacement_pool_images/source_34_DF0F321E-078A-4C40-A4A4-CEE3257E8B5D.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "F1DF12F1-8F81-45E7-95AF-9786B1B55751.jpeg",
+    "replacement_pool_filename": "source_35_F1DF12F1-8F81-45E7-95AF-9786B1B55751.jpg",
+    "relative_path": "replacement_pool_images/source_35_F1DF12F1-8F81-45E7-95AF-9786B1B55751.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "F5E39E29-1E5E-4D7E-A4D5-9FD02BE4C6F8.jpeg",
+    "replacement_pool_filename": "source_36_F5E39E29-1E5E-4D7E-A4D5-9FD02BE4C6F8.jpg",
+    "relative_path": "replacement_pool_images/source_36_F5E39E29-1E5E-4D7E-A4D5-9FD02BE4C6F8.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "F6B19E80-A25F-438A-9B44-8339BED3B372.jpeg",
+    "replacement_pool_filename": "source_37_F6B19E80-A25F-438A-9B44-8339BED3B372.jpg",
+    "relative_path": "replacement_pool_images/source_37_F6B19E80-A25F-438A-9B44-8339BED3B372.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_0226.JPG",
+    "replacement_pool_filename": "source_38_IMG_0226.jpg",
+    "relative_path": "replacement_pool_images/source_38_IMG_0226.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_0541.JPG",
+    "replacement_pool_filename": "source_39_IMG_0541.jpg",
+    "relative_path": "replacement_pool_images/source_39_IMG_0541.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_1337.jpg",
+    "replacement_pool_filename": "source_40_IMG_1337.jpg",
+    "relative_path": "replacement_pool_images/source_40_IMG_1337.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_1339.JPG",
+    "replacement_pool_filename": "source_41_IMG_1339.jpg",
+    "relative_path": "replacement_pool_images/source_41_IMG_1339.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_1777.JPG",
+    "replacement_pool_filename": "source_42_IMG_1777.jpg",
+    "relative_path": "replacement_pool_images/source_42_IMG_1777.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_3445.jpg",
+    "replacement_pool_filename": "source_43_IMG_3445.jpg",
+    "relative_path": "replacement_pool_images/source_43_IMG_3445.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_5150.jpg",
+    "replacement_pool_filename": "source_44_IMG_5150.jpg",
+    "relative_path": "replacement_pool_images/source_44_IMG_5150.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "img_5567 (2).jpg",
+    "replacement_pool_filename": "source_45_img_5567_2.jpg",
+    "relative_path": "replacement_pool_images/source_45_img_5567_2.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_7157.JPG",
+    "replacement_pool_filename": "source_46_IMG_7157.jpg",
+    "relative_path": "replacement_pool_images/source_46_IMG_7157.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_7894.jpg",
+    "replacement_pool_filename": "source_47_IMG_7894.jpg",
+    "relative_path": "replacement_pool_images/source_47_IMG_7894.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "IMG_8499.JPEG",
+    "replacement_pool_filename": "source_48_IMG_8499.jpg",
+    "relative_path": "replacement_pool_images/source_48_IMG_8499.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  },
+  {
+    "source_filename": "Split Lighting - James.JPG",
+    "replacement_pool_filename": "source_49_Split_Lighting_-_James.jpg",
+    "relative_path": "replacement_pool_images/source_49_Split_Lighting_-_James.jpg",
+    "instruction": "Use only if visually unique from all currently assigned images."
+  }
+]
