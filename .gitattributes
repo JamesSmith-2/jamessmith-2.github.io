@@ -19,7 +19,13 @@
 *.m4v filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 media_aesthetics_class/img/vids/IMG_3265-converted.mp4 -filter -diff -merge -text
+media_aesthetics_class/img/vids/IMG_3269-converted.mp4 -filter -diff -merge -text
+media_aesthetics_class/img/vids/IMG_3270-converted.mp4 -filter -diff -merge -text
 media_aesthetics_class/img/vids/IMG_3286-converted.mp4 -filter -diff -merge -text
 media_aesthetics_class/img/vids/IMG_3267-converted.mp4 -filter -diff -merge -text
 media_aesthetics_class/img/vids/IMG_3291-converted.mp4 -filter -diff -merge -text
 media_aesthetics_class/img/vids/IMG_3292-converted.mp4 -filter -diff -merge -text
+media_aesthetics_class/img/vids/IMG_3287-converted.mp4 -filter -diff -merge -text
+media_aesthetics_class/img/vids/IMG_3288-converted.mp4 -filter -diff -merge -text
+media_aesthetics_class/img/vids/IMG_3289-converted.mp4 -filter -diff -merge -text
+media_aesthetics_class/img/vids/IMG_3290-converted.mp4 -filter -diff -merge -text
