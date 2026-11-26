@@ -1,0 +1,31 @@
+/* Scoped to the refreshed portfolio pages; legacy course and project pages are unchanged. */
+.portfolio-refresh { --portfolio-ink: #183349; --portfolio-blue: #185580; color: #253a4b; }
+.portfolio-refresh header { position: sticky; }
+.portfolio-refresh header nav { gap: .3rem; padding: .55rem .75rem; }
+.portfolio-refresh header nav a { padding: .45rem .65rem; margin: 0; }
+.portfolio-refresh main { margin-top: 0; padding: clamp(1rem, 3vw, 2.5rem); }
+.portfolio-refresh section { scroll-margin-top: 7rem; padding: clamp(1.1rem, 3vw, 2rem); }
+.portfolio-refresh h1 { color: var(--portfolio-ink); font-size: clamp(2.3rem, 6vw, 4.5rem); line-height: 1.06; margin-bottom: 1rem; letter-spacing: -.04em; }
+.portfolio-refresh h2 { color: var(--portfolio-ink); }
+.portfolio-refresh .label { font-size: .83rem; font-weight: 750; letter-spacing: .085em; text-transform: uppercase; color: #246454; margin-bottom: .5rem; }
+.portfolio-refresh .intro { max-width: 56ch; font-size: clamp(1.12rem, 1.8vw, 1.35rem); }
+.portfolio-refresh a { color: var(--portfolio-blue); text-underline-offset: .18em; }
+.portfolio-refresh main a:not(.portfolio-button):hover { text-decoration: underline; }
+.portfolio-refresh a:focus-visible { outline: 3px solid #216d9d; outline-offset: 3px; }
+.portfolio-refresh .portfolio-hero { display: grid; grid-template-columns: 1.75fr 1fr; gap: 2rem; align-items: center; background: #edf4f6; }
+.portfolio-refresh .portfolio-hero img { display: block; width: 100%; max-height: 29rem; object-fit: cover; object-position: center; border-radius: .7rem; }
+.portfolio-refresh .portfolio-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1rem; margin-top: 1.3rem; }
+.portfolio-refresh .portfolio-button { background: var(--portfolio-ink); color: #fff; padding: .65rem 1rem; border-radius: .45rem; font-weight: 700; }
+.portfolio-refresh .project-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1rem; }
+.portfolio-refresh .project-grid article { background: #f5f8fa; border: 1px solid #d4e0e6; border-radius: .7rem; padding: 1.15rem; }
+.portfolio-refresh .project-grid h3 { margin-bottom: .3rem; font-size: 1.3rem; }
+.portfolio-refresh .project-grid p:last-child { margin-bottom: 0; }
+.portfolio-refresh .jump-links { justify-content: flex-start; padding: 0; gap: .4rem .9rem; }
+.portfolio-refresh .jump-links a { margin: 0; padding: .25rem 0; }
+.portfolio-refresh .portfolio-list { padding-left: 1.35rem; }
+.portfolio-refresh .portfolio-list li + li { margin-top: .6rem; }
+@media (max-width: 700px) {
+  .portfolio-refresh .portfolio-hero, .portfolio-refresh .project-grid { grid-template-columns: 1fr; }
+  .portfolio-refresh .portfolio-hero img { max-width: 22rem; max-height: 23rem; }
+}
+@media (max-width: 410px) { .portfolio-refresh header { position: static; } }
