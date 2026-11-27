@@ -29,3 +29,22 @@
   .portfolio-refresh .portfolio-hero img { max-width: 22rem; max-height: 23rem; }
 }
 @media (max-width: 410px) { .portfolio-refresh header { position: static; } }
+
+/* Brand cards on the portfolio homepage. */
+.portfolio-refresh .project-showcase .project-showcase-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
+  background: #fff;
+}
+.portfolio-refresh .project-showcase-card:focus-within {
+  box-shadow: 0 0 0 2px #216d9d;
+}
+.portfolio-refresh .project-art { aspect-ratio: 3 / 1; overflow: hidden; }
+.portfolio-refresh .project-art svg { display: block; width: 100%; height: 100%; }
+.portfolio-refresh .project-art-signal { background: #102338; }
+.portfolio-refresh .project-art-puurehof { background: #e9eddd; }
+.portfolio-refresh .project-card-copy { padding: clamp(.9rem, 2.5vw, 1.35rem); }
+.portfolio-refresh .project-card-copy h3 a { display: inline-block; padding-block: .22rem; }
+.portfolio-refresh .project-card-copy h3 span { font-size: .82em; margin-inline-start: .15em; }
